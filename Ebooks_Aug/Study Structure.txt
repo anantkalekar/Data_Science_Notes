@@ -1,0 +1,33 @@
+Introduction to variables
+Integers, floats, and math operators
+Strings and indexing
+Using Modulo with Strings
+Booleans and Comparison Operators
+If / Else Statements
+Elif and Logic Operators
+Lists and tuples
+Dictionaries
+For loops
+While loops
+Loop logic
+List/Dictionary comprehensions
+Lists, Tuples, Dictionaries and For/While Loops
+Scripting in Python
+Functions
+Function parameters and scope
+Packages and pip
+Reading Files and the with statement
+Writing Out to Files
+Pandas and data Frames
+Introduction to statistics
+Introduction to visualization
+Plotting and styling
+Scatter plots
+Bar Plots and standard deviation
+Scraping and HTML
+Building a simple crawler
+Scraping data from HTML
+Scraping the Web With Python 
+Introduction to NLP
+Basic NLP
+Introduction to sentiment analysis
